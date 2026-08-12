@@ -58,6 +58,7 @@ hiddenimports += [
 ]
 
 # 显式拉入 markitdown 各转换器及其可选依赖，避免动态导入遗漏
+a = Analysis(
     ["main.py"],
     pathex=[],
     binaries=binaries,

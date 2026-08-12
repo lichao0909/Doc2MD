@@ -4,6 +4,13 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Download](https://img.shields.io/badge/下载-EXE-orange)](https://github.com/lichao0909/Doc2MD/releases)
+
+## ⬇️ 直接下载
+
+不想装 Python？直接下载打包好的 EXE，解压即用：
+
+👉 **[📥 Doc2MD.zip（最新版）](https://github.com/lichao0909/Doc2MD/releases/latest)**
 
 ## ✨ 特性
 
