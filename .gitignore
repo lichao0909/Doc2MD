@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local config (may contain tokens / paths)
+config.json
+.env
+
+# IDE
+.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# MicroPython
+*.mpy
+firmware*.bin
+
+# Node (if using web-based tooling)
+node_modules/
+
+# WorkBuddy project data
+.workbuddy/

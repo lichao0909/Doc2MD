@@ -1,0 +1,11 @@
+{
+  "engine": "auto",
+  "vision_base_url": "https://open.bigmodel.cn/api/paas/v4",
+  "vision_model": "glm-4v-flash",
+  "vision_api_key": "",
+  "vision_dpi": 150,
+  "vision_jpeg_quality": 85,
+  "output_mode": "source",
+  "output_dir": "",
+  "appearance_mode": "System"
+}
